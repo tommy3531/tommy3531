@@ -1,21 +1,24 @@
 # Tom Marler
 
-**AI Developer & Full-Stack Software Engineer** — applied AI, voice agents, RAG, and production systems.
+**AI developer & full-stack engineer** exploring applied AI, voice agents, RAG, and agentic workflows — cloud-native on Azure.
 
-→ **[tommarler.com](https://tommarler.com)** — portfolio, projects, and contact
+I build production-grade systems for the curiosity of it, and to learn what the demo never shows.
+
+**Site:** [tommarler.com](https://tommarler.com) · **Email:** [tom@tommarler.com](mailto:tom@tommarler.com) · **LinkedIn:** [tom-marler](https://www.linkedin.com/in/tom-marler)
 
 ## Building
 
-- **Parley** — self-hosted voice AI agent (Spring Boot, Spring AI, Twilio)
-- **IntelligentOldMan** — agentic email intelligence with local LLM + RAG on Azure
-- **[PokePitchShop](https://www.pokepitchshop.com)** — live Next.js commerce storefront with eBay inventory sync
+| Project | What it is |
+| --- | --- |
+| [**Parley**](https://github.com/pokepitchshop/parley) | Self-hosted voice AI agent, live on real calls for several businesses — Spring Boot + Spring AI + Twilio ConversationRelay. Own the LLM layer in-app instead of a rented platform. |
+| [**IntelligentOldMan**](https://tommarler.com/projects/ai-email-intelligence/) | Email intelligence — intent classification with grounding checks, human-reviewed supply leads, RAG over pgvector, Azure + Terraform. |
+| [**PokePitchShop**](https://www.pokepitchshop.com) | Live Next.js storefront with eBay Trading API integration — real traffic, real inventory. |
+| [**Draftsmith**](https://github.com/pokepitchshop/Draftsmith) | AI writing agent — drop a link, get a technical tutorial draft, with local Ollama support and Medium / tommarler.com / X exports. |
 
 ## Focus
 
-Applied AI · Voice agents · RAG · Java/Spring · Python · Next.js · Azure · Security research
+Applied AI · LLMs · RAG · voice agents · Spring AI · Java · Python · Next.js · React · Azure · Terraform · security
 
-## Links
+## Stack
 
-- Website: https://tommarler.com
-- LinkedIn: https://www.linkedin.com/in/tom-marler
-- Email: tom@tommarler.com
+Java · Spring Boot · Spring AI · Python · Next.js · React · Node.js · PostgreSQL/pgvector · Docker · Twilio · Microsoft Graph
