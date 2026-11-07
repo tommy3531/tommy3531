@@ -1,12 +1,12 @@
 # Tom Marler
 
-**Entrepreneur & strategic thinker.** I help small businesses make more money and waste less time with technology that pays for itself, and I prove every system in a business I run before I offer it to anyone else.
+**Entrepreneur & strategic thinker.** I help businesses make more money and waste less time with technology that pays for itself, and I prove every system in a business I run before I offer it to anyone else.
 
 I've owned a restaurant, co-founded a government-contracting business, and help run a trading-card shop. I look at a business the way an owner does: where is it losing customers, leads, or hours? Then I build the system that wins them back.
 
 **Site:** [tommarler.com](https://tommarler.com) · **Résumé:** [tommarler.com/resume](https://tommarler.com/resume/) · **Email:** [tom@tommarler.com](mailto:tom@tommarler.com) · **LinkedIn:** [tom-marler](https://www.linkedin.com/in/tom-marler)
 
-## How I help small businesses
+## How I drive business value
 
 | Problem | System | Value |
 | --- | --- | --- |
