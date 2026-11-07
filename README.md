@@ -1,24 +1,30 @@
 # Tom Marler
 
-**AI developer & full-stack engineer** exploring applied AI, voice agents, RAG, and agentic workflows — cloud-native on Azure.
+**Entrepreneur & strategic thinker.** I help small businesses make more money and waste less time with technology that pays for itself, and I prove every system in a business I run before I offer it to anyone else.
 
-I build production-grade systems for the curiosity of it, and to learn what the demo never shows.
+I've owned a restaurant, co-founded a government-contracting business, and help run a trading-card shop. I look at a business the way an owner does: where is it losing customers, leads, or hours? Then I build the system that wins them back.
 
-**Site:** [tommarler.com](https://tommarler.com) · **Email:** [tom@tommarler.com](mailto:tom@tommarler.com) · **LinkedIn:** [tom-marler](https://www.linkedin.com/in/tom-marler)
+**Site:** [tommarler.com](https://tommarler.com) · **Résumé:** [tommarler.com/resume](https://tommarler.com/resume/) · **Email:** [tom@tommarler.com](mailto:tom@tommarler.com) · **LinkedIn:** [tom-marler](https://www.linkedin.com/in/tom-marler)
 
-## Building
+## How I help small businesses
 
-| Project | What it is |
-| --- | --- |
-| [**Parley**](https://github.com/pokepitchshop/parley) | Self-hosted voice AI agent, live on real calls for several businesses — Spring Boot + Spring AI + Twilio ConversationRelay. Own the LLM layer in-app instead of a rented platform. |
-| [**IntelligentOldMan**](https://tommarler.com/projects/ai-email-intelligence/) | Live email analytics for Poke Pitch Shop — intent classification with grounding checks, human-reviewed supply leads, RAG over pgvector, Azure + Terraform. |
-| [**PokePitchShop**](https://www.pokepitchshop.com) | Live Next.js storefront with eBay Trading API integration — real traffic, real inventory. |
-| [**Draftsmith**](https://github.com/pokepitchshop/Draftsmith) | AI writing agent — drop a link, get a technical tutorial draft, with local Ollama support and Medium / tommarler.com / X exports. |
+| Problem | System | Value |
+| --- | --- | --- |
+| Missed calls go to competitors | [**Parley**](https://tommarler.com/projects/parley/): AI phone agent, live for 3 businesses | Every call answered with real inventory and hours, owned instead of rented per minute |
+| Leads get buried in email | [**IntelligentOldMan**](https://tommarler.com/projects/ai-email-intelligence/): inbox-to-pipeline system at Poke Pitch Shop | Every email sorted by intent, supply offers tracked as leads by type and source |
+| Marketplace fees, no customer relationship | [**PokePitchShop**](https://www.pokepitchshop.com): storefront synced with eBay inventory | A sales channel the business owns, found in search, with alerts that bring buyers back |
+| No time to write content | [**Draftsmith**](https://github.com/pokepitchshop/Draftsmith): link-to-article engine (in progress) | Consistent publishing with the owner as editor, not author |
 
-## Focus
+## Ventures
 
-Applied AI · LLMs · RAG · voice agents · Spring AI · Java · Python · Next.js · React · Azure · Terraform · security
+- **Poke Pitch Shop**: trading-card business I build and run, and the proving ground for everything above
+- **JmacLogistics**: co-founder of a government-contracting business; data-driven business development
+- **Mavericks Pizza**: owner (2025), from concept to opening
 
-## Stack
+## How I work
 
-Java · Spring Boot · Spring AI · Python · Next.js · React · Node.js · PostgreSQL/pgvector · Docker · Twilio · Microsoft Graph
+1. Learn the business. 2. Find where it leaks money. 3. Build the smallest fix and prove it in a real business. 4. Measure, hand over, and pick the next leak.
+
+## Technology I use to deliver it
+
+Java · Spring Boot · Spring AI · Python · Next.js · React · PostgreSQL/pgvector · Azure · Terraform · Twilio · Microsoft Graph · eBay API
